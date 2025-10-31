@@ -8,3 +8,10 @@ cd password-strength-checker
 git add .
 git commit -m "Initial commit"
 git push origin main
+
+README.md
+
+git add .
+git commit -m "Initial commit"
+git push origin main
+
